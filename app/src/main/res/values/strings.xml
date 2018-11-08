@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="ru">
+    <string name="app_name">Тревожная кнопка</string>
+    <string name="title_activity_sos">SOSActivity</string>
+    <string name="sos">Ваши координаты отправлены Охранной службе. Ожидайте помощи.</string>
+    <string name="error">Сообщение не было доставлено</string>
+    <string name="network_error">Отсутствует подключение к интернету</string>
+</resources>
